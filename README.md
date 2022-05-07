@@ -1,4 +1,3 @@
-
 https://anamikakashyap.github.io/Gaming-System/
 <html>
 <head>
@@ -24,8 +23,8 @@ h3{
 text-align:center;
 margin-top:50px;
 margin-bottom:50px;
-margin-left:500px;
-margin-right:500px;
+margin-left:300px;
+margin-right:300px;
 background-color:yellow;
 padding:50px;
 }
