@@ -73,7 +73,7 @@ padding-right:40px;
 <body>
 
 <h1>The Gaming System</h1>
-<h3>Select your choice</h3>
+<h3>Choose</h3>
 
 <a href = "https://anamikakashyap.github.io/Snake-game-/" class = "st1"><h2>Snake Game</h2></a></div>
 <a href = "https://anamikakashyap.github.io/TicTacToe/" class = "st2"><h2>TikTacToe</h2></a></div>
