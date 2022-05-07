@@ -4,8 +4,8 @@ https://anamikakashyap.github.io/Gaming-System/
 <title>The Gaming System</title>
 <style>
 *{
-margin:0;
-padding:0;
+margin:0px;
+padding:0px;
 }
 body{
 background-color:black;
