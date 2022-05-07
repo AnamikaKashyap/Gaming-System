@@ -1,6 +1,5 @@
-# Gaming-System
+
 https://anamikakashyap.github.io/Gaming-System/
-<!Doctype html>
 <html>
 <head>
 <title>The Gaming System</title>
